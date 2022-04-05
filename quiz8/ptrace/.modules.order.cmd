@@ -1,0 +1,1 @@
+cmd_/home/shiaoyi/linux2022/linux2022/quiz8/ptrace/modules.order := {   echo /home/shiaoyi/linux2022/linux2022/quiz8/ptrace/dont_trace.ko; :; } | awk '!x[$$0]++' - > /home/shiaoyi/linux2022/linux2022/quiz8/ptrace/modules.order

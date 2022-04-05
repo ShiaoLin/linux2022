@@ -1,0 +1,1 @@
+cmd_/home/shiaoyi/linux2022/linux2022/quiz8/ptrace/dont_trace.mod := { echo  /home/shiaoyi/linux2022/linux2022/quiz8/ptrace/dont_trace.o;  echo; } > /home/shiaoyi/linux2022/linux2022/quiz8/ptrace/dont_trace.mod
