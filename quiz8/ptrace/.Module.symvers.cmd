@@ -1,1 +1,0 @@
-cmd_/home/shiaoyi/linux2022/linux2022/quiz8/ptrace/Module.symvers := sed 's/\.ko$$/\.o/' /home/shiaoyi/linux2022/linux2022/quiz8/ptrace/modules.order | scripts/mod/modpost -m -a  -o /home/shiaoyi/linux2022/linux2022/quiz8/ptrace/Module.symvers -e -i Module.symvers   -T -
